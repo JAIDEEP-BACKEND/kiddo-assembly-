@@ -1,6 +1,7 @@
 # 🚀 KidoAssembly
 **KidoAssembly** is an interactive, gamified learning platform designed to make education fun and engaging for students in Grades 1 to 5. Through a combination of mini-games, virtual pets, and a rewarding progression system, KidoAssembly encourages continuous learning and exploration.
-🌐 **Live Demo:** kiddoassembly.netlify.app
+🌐 **Live Demo:**
+https://kiddoassembly.netlify.app/
 ## ✨ Features
  * 🎮 **Educational Mini-Games:** * **Math Shooter:** Action-packed math problem solving.
    * **Word Scramble:** Boost vocabulary and spelling skills.
